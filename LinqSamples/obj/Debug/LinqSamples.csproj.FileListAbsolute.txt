@@ -1,0 +1,7 @@
+C:\Users\Nemanja1\source\repos\LinqSamples\LinqSamples\bin\Debug\LinqSamples.exe.config
+C:\Users\Nemanja1\source\repos\LinqSamples\LinqSamples\bin\Debug\LinqSamples.exe
+C:\Users\Nemanja1\source\repos\LinqSamples\LinqSamples\bin\Debug\LinqSamples.pdb
+C:\Users\Nemanja1\source\repos\LinqSamples\LinqSamples\obj\Debug\LinqSamples.csprojAssemblyReference.cache
+C:\Users\Nemanja1\source\repos\LinqSamples\LinqSamples\obj\Debug\LinqSamples.csproj.CoreCompileInputs.cache
+C:\Users\Nemanja1\source\repos\LinqSamples\LinqSamples\obj\Debug\LinqSamples.exe
+C:\Users\Nemanja1\source\repos\LinqSamples\LinqSamples\obj\Debug\LinqSamples.pdb
